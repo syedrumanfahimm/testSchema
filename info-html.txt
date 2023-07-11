@@ -1,0 +1,5 @@
+date=2023-07-08 13:56:40+0600
+os=Windows 10 10.0
+schemaspy-version=6.2.3
+schemaspy-build=6.2.3.41 2023-06-20 20:08:51
+renderer=Viz.js 1.7.1 (Graphviz 2.40.1, Expat 2.1.0, Emscripten 1.37.9)
